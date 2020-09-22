@@ -1,4 +1,4 @@
-# Detail explanation available at => 
+# Detail explanation available at => https://www.appwithflutter.com/flutter-ui-design-whatsapp-redesign/
 
 ScreenShot | ScreenShot
 ------------ | -------------
